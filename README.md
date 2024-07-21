@@ -5,7 +5,7 @@ am equally comfortable working independently on projects. I am excited about
 the prospect of joining a product-driven company, where I can 
 contribute to innovative solutions and continue growing professionally.
 
-Skills🌱
+Skills🌱:
 Languages & Frameworks: Python (Django), JavaScript (ES6, React, Redux, Node.js), HTML/CSS
 Databases: MySQL
 Tools & Practices: CI/CD, Git, Docker
