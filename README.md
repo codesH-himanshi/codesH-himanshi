@@ -11,14 +11,14 @@ Databases: MySQL
 Tools & Practices: CI/CD, Git, Docker
 Other: Mentoring junior developers, project management
 
-Contact Information
+Contact Information-
 Email: himanshikashyap442@gmail.com
 Location: Burari, Delhi
 
-Links
+Links:
  [LinkedIn](www.linkedin.com/in/442-himanshi)
 
- Career Objective
+ Career Objective:
 Throughout my studies, I have focused on developing scalable and well-documented code. I enjoy
 working collaboratively but can also run with projects independently. I am excited about the
 prospect of joining a product-driven company.
