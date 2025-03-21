@@ -13,7 +13,6 @@ Other: Mentoring junior developers, project management
 
 Contact Information-
 Email: himanshikashyap442@gmail.com
-Location: Burari, Delhi
 
 Links:
  [LinkedIn](https://www.linkedin.com/in/442-himanshi/)
