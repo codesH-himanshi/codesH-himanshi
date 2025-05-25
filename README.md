@@ -1,9 +1,9 @@
 Computer Science Student | Open-Source Contributor | Building with Python & JavaScript
 
 💻 What I Do:
-Craft full-stack web apps using React, Node.js, and Django
-Experiment with cloud tech (AWS/Docker) and AI/ML
-Solve problems through clean, documented code
+1. Craft full-stack web apps using React, Node.js, and Django
+2. Experiment with cloud tech (AWS/Docker) and AI/ML
+3. Solve problems through clean, documented code
 
 🌱 Currently Learning:
 Microservices architecture
