@@ -18,4 +18,4 @@ Let's Connect:
 Contribute to open-source together
 Collaborate on hackathons/innovative projects
 
-Reach me: Email: 442himanshi@gmail.com | [LinkedIn](https://www.linkedin.com/in/442-himanshi/) | [Twitter](https://x.com/himAnshi_882)
+Reach me: [LinkedIn](https://www.linkedin.com/in/442-himanshi/) | [Twitter](https://x.com/himAnshi_882) | [Email] 442himanshi@gmail.com
