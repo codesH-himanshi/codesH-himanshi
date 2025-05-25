@@ -1,26 +1,21 @@
-Hi, I'm Himanshi👋
-I'm a passionate student with expertise in developing scalable 
-and well-documented code.👀 I thrive in collaborative environments but 
-am equally comfortable working independently on projects. I am excited about 
-the prospect of joining a product-driven company, where I can 
-contribute to innovative solutions and continue growing professionally.
+Computer Science Student | Open-Source Contributor | Building with Python & JavaScript
 
-Skills🌱:
-Languages & Frameworks: Python (Django), JavaScript (ES6, React, Redux, Node.js), HTML/CSS
-Databases: MySQL
-Tools & Practices: CI/CD, Git, Docker
-Other: Mentoring junior developers, project management
+💻 What I Do:
+Craft full-stack web apps using React, Node.js, and Django
+Experiment with cloud tech (AWS/Docker) and AI/ML
+Solve problems through clean, documented code
 
-Contact Information-
-Email: 442himanshi@gmail.com
+🌱 Currently Learning:
+Microservices architecture
+DevOps tools (Kubernetes, CI/CD)
 
-Links:
- [LinkedIn](https://www.linkedin.com/in/442-himanshi/)
-
- Career Objective:
+Career Objective:
 Throughout my studies, I have focused on developing scalable and well-documented code. I enjoy
 working collaboratively but can also run with projects independently. I am excited about the
 prospect of joining a product-driven company.
 
-Feel free to connect with me on 📫[LinkedIn](https://www.linkedin.com/in/442-himanshi/) for more
-information about my work and projects.
+Let's Connect:
+Contribute to open-source together
+Collaborate on hackathons/innovative projects
+
+Reach me: [Email](442himanshi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/442-himanshi/) | [Twitter](https://x.com/himAnshi_882)
